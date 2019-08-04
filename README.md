@@ -8,3 +8,6 @@ lorem ipsum blah blah blah
 
 *lorem ipsum etc*
 
+[GitHub contributions](https://resume.github.io/?troyhill)
+
+
